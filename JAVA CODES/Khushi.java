@@ -1,4 +1,4 @@
-public class Khushi{
+public class Khushi {
     public static void main(String args[]){
        System.out.println("Hello Everyone!!");
        int a=10, b=20;
