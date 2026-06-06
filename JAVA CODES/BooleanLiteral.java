@@ -1,4 +1,4 @@
-public class BooleanLiteral{
+public class BooleanLiteral {
 
 	public static void main(String[] args) {
 		boolean a=true;
