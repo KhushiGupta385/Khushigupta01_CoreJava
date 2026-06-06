@@ -1,4 +1,4 @@
-public class IntegerLiteral{
+public class IntegerLiteral {
 	 public static void main(String[] args) {
 	        int a=104;          //Decimal Integer Literal
 	        int b=0150;         //Octal Integer Literal     (iska decimal converion ans hoga)
