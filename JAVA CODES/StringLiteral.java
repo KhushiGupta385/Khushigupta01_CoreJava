@@ -1,4 +1,4 @@
-public class StringLiteral{
+public class StringLiteral {
 
 	public static void main(String[] args) {
 		String s="Khushi Gupta";
