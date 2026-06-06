@@ -28,6 +28,7 @@ I am a B.Tech student currently learning Core Java and Python. This repository i
 - Java
 - JDK
 - VS Code / IntelliJ IDEA
+- eclipse
 
 ## 🎯 Purpose
 - Practice Core Java concepts
