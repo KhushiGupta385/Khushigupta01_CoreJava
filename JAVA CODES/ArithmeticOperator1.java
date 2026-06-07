@@ -16,7 +16,7 @@ public class ArithmeticOperator1 {
 	}
 }
 
-// Rule
+// Rules:
 //int/int => int
 //int/double => double
 //double/int => double
