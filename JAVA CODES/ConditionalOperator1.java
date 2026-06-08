@@ -4,7 +4,6 @@ public class ConditionalOperator1 {
 		int c=a++<b--?a++*++b/a:--b%a++-++b/b--;
 		System.out.println(a);
 		System.out.println(b);
-		System.out.println(c);
-			
+		System.out.println(c);	
 	}
 }
