@@ -1,4 +1,3 @@
-
 public class DMQues5 {
 	public static void main(String[] args) {
 		int a=10,b=5;
