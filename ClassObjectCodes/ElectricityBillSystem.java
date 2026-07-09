@@ -1,4 +1,3 @@
-
 class ElectricityBill {
     // Private variables
     private String customerName;
