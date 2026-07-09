@@ -1,4 +1,3 @@
-
 class BankAccount {
     // Private variables (Encapsulation)
     private String accountHolder;
