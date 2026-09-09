@@ -1,4 +1,3 @@
-
 class C{
 	static {
 		System.out.println("Hello C");
