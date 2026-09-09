@@ -1,4 +1,3 @@
-
 class KK{
 	static {
 		System.out.println("Hello C");
