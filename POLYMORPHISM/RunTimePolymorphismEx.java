@@ -1,4 +1,3 @@
-
 class Animal{
 	void eat() {
 		System.out.println("Animal's Eat");
@@ -23,7 +22,7 @@ public class RunTimePolymorphismEx {
 	public static void main(String[] args) {
 		
 		
-		Animal a;
+    	Animal a;
 		a=new Animal();
 		a.eat();
 		a=new Dog();
