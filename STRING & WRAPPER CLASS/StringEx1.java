@@ -1,4 +1,3 @@
-
 class A extends Object{
 	String name;
 	int age;
