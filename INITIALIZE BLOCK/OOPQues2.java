@@ -1,4 +1,3 @@
-
 class Abc{
 	int x=10;
 	static String y;
