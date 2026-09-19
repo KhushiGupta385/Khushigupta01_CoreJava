@@ -1,4 +1,3 @@
-
 class Xyz{
 	double x;
 	static int y=12;
