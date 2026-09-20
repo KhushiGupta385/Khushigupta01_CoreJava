@@ -16,7 +16,6 @@ public class LambdaEx3 {
 		Square s=x-> x*x;
 		
 		int result=s.sqr(9);
-		System.out.println("Square: "+result);
-		
+		System.out.println("Square: "+result);		
 	}
 }
