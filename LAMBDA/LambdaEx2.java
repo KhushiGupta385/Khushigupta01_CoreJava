@@ -5,7 +5,7 @@ interface Sum{
 public class LambdaEx2 {
 	public static void main(String[] args) {
 //		Sum a=(int x,int y)->{
-//			int r=x+y;
+//	    int r=x+y;
 //			System.out.println("Sum: "+r);
 //		};
 		
