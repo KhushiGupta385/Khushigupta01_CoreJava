@@ -17,7 +17,6 @@ public class CountDigits {
 
         return count;
     }
-
     public static void main(String[] args) {
         System.out.println(countDigits(1234));  // 4
         System.out.println(countDigits(50));    // 2
