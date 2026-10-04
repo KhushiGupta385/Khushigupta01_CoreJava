@@ -1,4 +1,3 @@
-
 class A{
 	int x=90;
 	void m() {
