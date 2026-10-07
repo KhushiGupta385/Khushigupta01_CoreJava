@@ -1,4 +1,3 @@
-
 class P{
 	String x;
 	static int y;
