@@ -1,4 +1,3 @@
-
 class Bird{
 	String name;
 	int age;
