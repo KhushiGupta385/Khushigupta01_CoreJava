@@ -1,4 +1,3 @@
-
 class AA{
 	String x;
 	static int y;
