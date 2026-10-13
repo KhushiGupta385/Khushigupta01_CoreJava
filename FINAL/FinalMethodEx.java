@@ -1,4 +1,3 @@
-
 class AA{
 	final void m1() {
 		System.out.println("Hello A");
