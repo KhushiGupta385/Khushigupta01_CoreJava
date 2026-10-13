@@ -1,4 +1,3 @@
-
 class AAA{
 	//final int x; //error (Blank Final)
 	final int x=10; //instance(non-static) variable -> class level variable
